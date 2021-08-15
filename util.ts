@@ -1,3 +1,6 @@
+// Author: Francisco José Contreras Cuevas
+// Office: Senior VFX Compositor & 3D FX Artist
+// Website: videovina.com
 
 export function sleep(ms: number) {
     return new Promise(resolve => setTimeout(resolve, ms * 1000));
